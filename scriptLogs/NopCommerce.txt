@@ -1,51 +1,51 @@
-[2022-10-18 22:21:18,352] Pre-Condition: Step 1: Click on Login link
-[2022-10-18 22:21:20,137] Pre-Condition: Step 2: Input to Email textbox with: maurita.walsh@hotmail.com
-[2022-10-18 22:21:20,336] Pre-Condition: Step 3: Input to Email textbox with: %L7k!fLw7
-[2022-10-18 22:21:20,514] Pre-Condition: Step 4: Click on Login button
-[2022-10-18 22:21:21,364] Pre-Condition: Step 5: Verify My Account link display after Login successfull
-[2022-10-18 22:21:21,812] Step 1: Click on Search link at footer
-[2022-10-18 22:21:22,912] Step 2: Click on Search link at footer
-[2022-10-18 22:21:23,455] Step 3: Click on Search link at footer
-[2022-10-18 22:21:23,549] Step 1: Click on Search link at footer
-[2022-10-18 22:21:24,153] Step 1: Input to Search textbox with data: Macbook Pro 2050
-[2022-10-18 22:21:24,348] Step 3: Click on Search link at footer
-[2022-10-18 22:21:24,824] Step 4: Verify the message 'No products were found that matched your criteria.' display
-[2022-10-18 22:21:24,894] Step 1: Click on Search link at footer
-[2022-10-18 22:21:25,348] Step 1: Input to Search textbox with data: Lenovo
-[2022-10-18 22:21:25,510] Step 3: Click on Search link at footer
-[2022-10-18 22:21:26,292] Step 4: Verify 2 products display
-[2022-10-18 22:21:26,416] Step 1: Click on Search link at footer
-[2022-10-18 22:21:26,863] Step 1: Input to Search textbox with data: Thinkpad X1 Carbon
-[2022-10-18 22:21:27,035] Step 3: Click on Search link at footer
-[2022-10-18 22:21:27,497] Step 4: Verify 'Lenovo Thinkpad X1 Carbon Laptop' products display
-[2022-10-18 22:21:27,556] Step 1: Click on Search link at footer
-[2022-10-18 22:21:28,041] Step 2: Input to Search textbox with data: Apple MacBook Pro
-[2022-10-18 22:21:28,212] Step 3: Input to Search textbox with data: Apple MacBook Pro
-[2022-10-18 22:21:28,343] Step 4: Select 'Computers' item in category
-[2022-10-18 22:21:28,511] Step 5: Click on Search button
-[2022-10-18 22:21:28,974] Step 6: Verify the message 'No products were found that matched your criteria.' display
-[2022-10-18 22:21:29,038] Step 1: Click on Search link at footer
-[2022-10-18 22:21:29,494] Step 2: Input to Search textbox with data: Apple MacBook Pro
-[2022-10-18 22:21:29,684] Step 3: Click on Advance checkbox
-[2022-10-18 22:21:29,807] Step 4: Select 'Computers' item in category
-[2022-10-18 22:21:29,965] Step 5: Click on 'Automatically search sub categories' checkbox
-[2022-10-18 22:21:30,078] Step 6: Click on Search button
-[2022-10-18 22:21:30,589] Step 7: Verify 'Apple MacBook Pro 13-inch' products display
-[2022-10-18 22:21:30,633] Step 1: Click on Search link at footer
-[2022-10-18 22:21:31,090] Step 2: Input to Search textbox with data: Apple MacBook Pro
-[2022-10-18 22:21:31,264] Step 3: Click on Advance checkbox
-[2022-10-18 22:21:31,394] Step 4: Select 'Computers' item in category
-[2022-10-18 22:21:31,564] Step 5: Click on 'Automatically search sub categories' checkbox
-[2022-10-18 22:21:31,682] Step 6: Select 'HP' item in Manufacturer
-[2022-10-18 22:21:31,862] Step 7: Click on Search button
-[2022-10-18 22:21:32,329] Step 8: Verify the message 'No products were found that matched your criteria.' display
-[2022-10-18 22:21:32,397] Step 1: Click on Search link at footer
-[2022-10-18 22:21:32,844] Step 2: Input to Search textbox with data: Apple MacBook Pro
-[2022-10-18 22:21:33,028] Step 3: Click on Advance checkbox
-[2022-10-18 22:21:33,148] Step 4: Select 'Computers' item in category
-[2022-10-18 22:21:33,317] Step 5: Click on 'Automatically search sub categories' checkbox
-[2022-10-18 22:21:33,443] Step 6: Select 'HP' item in Manufacturer
-[2022-10-18 22:21:33,593] Step 7: Click on Search button
-[2022-10-18 22:21:34,062] Step 8: Verify 'Apple MacBook Pro 13-inch' products display
-[2022-10-18 22:21:34,106] OS name = windows 10
-[2022-10-18 22:21:34,106] Driver instance name = chromedriver: chrome on windows (8a47196e9185418085ec4092fdd61f8d)
+[2022-10-20 10:12:58,423] Pre-Condition: Step 1: Click on Login link
+[2022-10-20 10:12:59,493] Pre-Condition: Step 2: Input to Email textbox with: esteban.armstrong@gmail.com
+[2022-10-20 10:12:59,694] Pre-Condition: Step 3: Input to Email textbox with: d*j#Dpp8O
+[2022-10-20 10:12:59,878] Pre-Condition: Step 4: Click on Login button
+[2022-10-20 10:13:00,638] Pre-Condition: Step 5: Verify My Account link display after Login successfull
+[2022-10-20 10:13:00,920] Step 1: Click on Search link at footer
+[2022-10-20 10:13:01,765] Step 2: Click on Search link at footer
+[2022-10-20 10:13:02,251] Step 3: Click on Search link at footer
+[2022-10-20 10:13:02,337] Step 1: Click on Search link at footer
+[2022-10-20 10:13:02,775] Step 1: Input to Search textbox with data: Macbook Pro 2050
+[2022-10-20 10:13:02,958] Step 3: Click on Search link at footer
+[2022-10-20 10:13:03,513] Step 4: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 10:13:03,585] Step 1: Click on Search link at footer
+[2022-10-20 10:13:04,041] Step 1: Input to Search textbox with data: Lenovo
+[2022-10-20 10:13:04,203] Step 3: Click on Search link at footer
+[2022-10-20 10:13:04,736] Step 4: Verify 2 products display
+[2022-10-20 10:13:04,868] Step 1: Click on Search link at footer
+[2022-10-20 10:13:05,306] Step 1: Input to Search textbox with data: Thinkpad X1 Carbon
+[2022-10-20 10:13:05,494] Step 3: Click on Search link at footer
+[2022-10-20 10:13:05,989] Step 4: Verify 'Lenovo Thinkpad X1 Carbon Laptop' products display
+[2022-10-20 10:13:06,035] Step 1: Click on Search link at footer
+[2022-10-20 10:13:06,459] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 10:13:06,630] Step 3: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 10:13:06,760] Step 4: Select 'Computers' item in category
+[2022-10-20 10:13:06,903] Step 5: Click on Search button
+[2022-10-20 10:13:07,374] Step 6: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 10:13:07,461] Step 1: Click on Search link at footer
+[2022-10-20 10:13:07,897] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 10:13:08,072] Step 3: Click on Advance checkbox
+[2022-10-20 10:13:08,197] Step 4: Select 'Computers' item in category
+[2022-10-20 10:13:08,365] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 10:13:08,492] Step 6: Click on Search button
+[2022-10-20 10:13:08,929] Step 7: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 10:13:08,984] Step 1: Click on Search link at footer
+[2022-10-20 10:13:09,425] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 10:13:09,603] Step 3: Click on Advance checkbox
+[2022-10-20 10:13:09,719] Step 4: Select 'Computers' item in category
+[2022-10-20 10:13:09,865] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 10:13:09,980] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 10:13:10,144] Step 7: Click on Search button
+[2022-10-20 10:13:10,579] Step 8: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 10:13:10,642] Step 1: Click on Search link at footer
+[2022-10-20 10:13:11,078] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 10:13:11,267] Step 3: Click on Advance checkbox
+[2022-10-20 10:13:11,389] Step 4: Select 'Computers' item in category
+[2022-10-20 10:13:11,541] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 10:13:11,654] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 10:13:11,806] Step 7: Click on Search button
+[2022-10-20 10:13:12,267] Step 8: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 10:13:12,308] OS name = windows 10
+[2022-10-20 10:13:12,309] Driver instance name = chromedriver: chrome on windows (54c30c8886a48983521c0a9b623d4de6)
