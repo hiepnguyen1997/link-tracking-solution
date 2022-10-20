@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sauce Lab">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="reportConfig.ReportNGListener" />
+	</listeners>
+	<parameter name="url" value="https://www.saucedemo.com/inventory.html" />
+	<test name="Run on Chorme">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.saurcelabs.sort.Level_19_Sort_Acs_Decs" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WordPress">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+	<parameter name="urlAdmin" value="https://livecoding/automationFC/wp-admin/" />
+	<parameter name="urlUser" value="https://livecoding/automationFC/" />
+	<test name="Run on Chorme">
+		<parameter name="browser" value="firefox" />
+		<packages>
+			<package name="com.wordpress.post" />
+		</packages>
+	</test>
+</suite>

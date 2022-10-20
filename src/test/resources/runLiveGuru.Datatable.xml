@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+
+	<parameter name="url" value="http://live.techpanda.org/index.php/"/>
+	<test name="Run on FireFox">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.liveGuru.Level_10_LiveGuru" />
+		</classes>
+	</test>
+</suite>

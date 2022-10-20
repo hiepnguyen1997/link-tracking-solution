@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FaceBook">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+	<parameter name="url" value="https://www.facebook.com/" />
+	<test name="Run on FireFox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.facebook.Level_13_Element_Condition" />
+		</classes>
+	</test>
+</suite>
