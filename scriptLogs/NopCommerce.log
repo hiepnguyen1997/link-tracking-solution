@@ -11289,3 +11289,105 @@ Driver info: driver.version: RemoteWebDriver
 [2022-10-20 10:13:12,267] Step 8: Verify 'Apple MacBook Pro 13-inch' products display
 [2022-10-20 10:13:12,308] OS name = windows 10
 [2022-10-20 10:13:12,309] Driver instance name = chromedriver: chrome on windows (54c30c8886a48983521c0a9b623d4de6)
+[2022-10-20 14:33:55,981] Pre-Condition: Step 1: Click on Login link
+[2022-10-20 14:33:57,274] Pre-Condition: Step 2: Input to Email textbox with: douglas.emmerich@hotmail.com
+[2022-10-20 14:33:57,485] Pre-Condition: Step 3: Input to Email textbox with: &b#!Z%SUu
+[2022-10-20 14:33:57,670] Pre-Condition: Step 4: Click on Login button
+[2022-10-20 14:33:58,536] Pre-Condition: Step 5: Verify My Account link display after Login successfull
+[2022-10-20 14:33:59,303] Step 1: Click on Search link at footer
+[2022-10-20 14:34:00,065] Step 2: Click on Search link at footer
+[2022-10-20 14:34:00,553] Step 3: Click on Search link at footer
+[2022-10-20 14:34:00,813] Step 1: Click on Search link at footer
+[2022-10-20 14:34:01,351] Step 1: Input to Search textbox with data: Macbook Pro 2050
+[2022-10-20 14:34:01,536] Step 3: Click on Search link at footer
+[2022-10-20 14:34:02,022] Step 4: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:34:02,090] Step 1: Click on Search link at footer
+[2022-10-20 14:34:02,597] Step 1: Input to Search textbox with data: Lenovo
+[2022-10-20 14:34:02,756] Step 3: Click on Search link at footer
+[2022-10-20 14:34:03,267] Step 4: Verify 2 products display
+[2022-10-20 14:34:03,412] Step 1: Click on Search link at footer
+[2022-10-20 14:34:03,849] Step 1: Input to Search textbox with data: Thinkpad X1 Carbon
+[2022-10-20 14:34:04,032] Step 3: Click on Search link at footer
+[2022-10-20 14:34:04,484] Step 4: Verify 'Lenovo Thinkpad X1 Carbon Laptop' products display
+[2022-10-20 14:34:04,533] Step 1: Click on Search link at footer
+[2022-10-20 14:34:05,050] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:34:05,233] Step 3: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:34:05,355] Step 4: Select 'Computers' item in category
+[2022-10-20 14:34:05,518] Step 5: Click on Search button
+[2022-10-20 14:34:06,056] Step 6: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:34:06,127] Step 1: Click on Search link at footer
+[2022-10-20 14:34:06,631] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:34:06,799] Step 3: Click on Advance checkbox
+[2022-10-20 14:34:06,949] Step 4: Select 'Computers' item in category
+[2022-10-20 14:34:07,129] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:34:07,255] Step 6: Click on Search button
+[2022-10-20 14:34:07,821] Step 7: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 14:34:07,863] Step 1: Click on Search link at footer
+[2022-10-20 14:34:08,319] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:34:08,475] Step 3: Click on Advance checkbox
+[2022-10-20 14:34:08,601] Step 4: Select 'Computers' item in category
+[2022-10-20 14:34:08,765] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:34:08,878] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 14:34:09,030] Step 7: Click on Search button
+[2022-10-20 14:34:09,576] Step 8: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:34:09,646] Step 1: Click on Search link at footer
+[2022-10-20 14:34:10,082] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:34:10,260] Step 3: Click on Advance checkbox
+[2022-10-20 14:34:10,381] Step 4: Select 'Computers' item in category
+[2022-10-20 14:34:10,555] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:34:10,676] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 14:34:10,836] Step 7: Click on Search button
+[2022-10-20 14:34:11,416] Step 8: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 14:34:11,463] OS name = windows 10
+[2022-10-20 14:34:11,463] Driver instance name = chromedriver: chrome on windows (a630613c2c98d309fb20f21dda8c068c)
+[2022-10-20 14:41:44,372] Pre-Condition: Step 1: Click on Login link
+[2022-10-20 14:41:45,801] Pre-Condition: Step 2: Input to Email textbox with: doreatha.wuckert@gmail.com
+[2022-10-20 14:41:46,026] Pre-Condition: Step 3: Input to Email textbox with: !$@5@SrG
+[2022-10-20 14:41:46,212] Pre-Condition: Step 4: Click on Login button
+[2022-10-20 14:41:47,043] Pre-Condition: Step 5: Verify My Account link display after Login successfull
+[2022-10-20 14:41:47,378] Step 1: Click on Search link at footer
+[2022-10-20 14:41:48,229] Step 2: Click on Search link at footer
+[2022-10-20 14:41:48,711] Step 3: Click on Search link at footer
+[2022-10-20 14:41:48,798] Step 1: Click on Search link at footer
+[2022-10-20 14:41:49,323] Step 1: Input to Search textbox with data: Macbook Pro 2050
+[2022-10-20 14:41:49,532] Step 3: Click on Search link at footer
+[2022-10-20 14:41:50,014] Step 4: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:41:50,096] Step 1: Click on Search link at footer
+[2022-10-20 14:41:50,532] Step 1: Input to Search textbox with data: Lenovo
+[2022-10-20 14:41:50,715] Step 3: Click on Search link at footer
+[2022-10-20 14:41:51,249] Step 4: Verify 2 products display
+[2022-10-20 14:41:51,374] Step 1: Click on Search link at footer
+[2022-10-20 14:41:51,837] Step 1: Input to Search textbox with data: Thinkpad X1 Carbon
+[2022-10-20 14:41:52,069] Step 3: Click on Search link at footer
+[2022-10-20 14:41:52,541] Step 4: Verify 'Lenovo Thinkpad X1 Carbon Laptop' products display
+[2022-10-20 14:41:52,590] Step 1: Click on Search link at footer
+[2022-10-20 14:41:53,012] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:41:53,194] Step 3: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:41:53,322] Step 4: Select 'Computers' item in category
+[2022-10-20 14:41:53,516] Step 5: Click on Search button
+[2022-10-20 14:41:53,997] Step 6: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:41:54,084] Step 1: Click on Search link at footer
+[2022-10-20 14:41:54,520] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:41:54,704] Step 3: Click on Advance checkbox
+[2022-10-20 14:41:54,853] Step 4: Select 'Computers' item in category
+[2022-10-20 14:41:55,008] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:41:55,119] Step 6: Click on Search button
+[2022-10-20 14:41:55,653] Step 7: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 14:41:55,695] Step 1: Click on Search link at footer
+[2022-10-20 14:41:56,153] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:41:56,330] Step 3: Click on Advance checkbox
+[2022-10-20 14:41:56,460] Step 4: Select 'Computers' item in category
+[2022-10-20 14:41:56,623] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:41:56,735] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 14:41:56,889] Step 7: Click on Search button
+[2022-10-20 14:41:57,486] Step 8: Verify the message 'No products were found that matched your criteria.' display
+[2022-10-20 14:41:57,551] Step 1: Click on Search link at footer
+[2022-10-20 14:41:58,016] Step 2: Input to Search textbox with data: Apple MacBook Pro
+[2022-10-20 14:41:58,200] Step 3: Click on Advance checkbox
+[2022-10-20 14:41:58,316] Step 4: Select 'Computers' item in category
+[2022-10-20 14:41:58,488] Step 5: Click on 'Automatically search sub categories' checkbox
+[2022-10-20 14:41:58,614] Step 6: Select 'HP' item in Manufacturer
+[2022-10-20 14:41:58,778] Step 7: Click on Search button
+[2022-10-20 14:41:59,353] Step 8: Verify 'Apple MacBook Pro 13-inch' products display
+[2022-10-20 14:41:59,401] OS name = windows 10
+[2022-10-20 14:41:59,401] Driver instance name = chromedriver: chrome on windows (4c68b97552fd1f8c1182b8a7b31061c3)
