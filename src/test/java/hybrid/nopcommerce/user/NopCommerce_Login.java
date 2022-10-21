@@ -61,6 +61,7 @@ public class NopCommerce_Login extends BaseTest {
 		log.info("Step 1: Click on Login link");
 		loginPage = homePage.clickOnLoginLink();
 		//This line to test github
+		//Test
 		
 		ExtentTestManager.getTest().log(Status.INFO, "Step 2: Input to email with data: " + invalidEmail);
 		log.info("Step 2: Input to email with data: " + invalidEmail);
